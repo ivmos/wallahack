@@ -1,0 +1,27 @@
+17:53:01.268 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+17:53:01.297 i.a.w.l.MainLauncher - http://es.wallapop.com/search?kws=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+17:53:01.298 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+17:53:35.079 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+17:53:35.109 i.a.w.l.MainLauncher - http://es.wallapop.com/search?kws=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+17:53:35.109 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+18:01:18.639 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+18:01:18.665 i.a.w.l.MainLauncher - http://es.wallapop.com/search?kws=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+18:01:18.665 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+18:01:55.219 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+18:01:55.246 i.a.w.l.MainLauncher - http://es.wallapop.com/search?kws=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+18:01:55.247 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+23:14:49.252 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+23:14:49.282 i.a.w.l.MainLauncher - http://es.wallapop.com/search?keywords=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+23:14:49.283 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+23:24:31.016 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+23:24:31.046 i.a.w.l.MainLauncher - http://es.wallapop.com/search?keywords=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+23:24:31.046 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+23:24:46.256 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+23:24:46.285 i.a.w.l.MainLauncher - http://es.wallapop.com/search?keywords=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+23:24:46.286 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+23:25:07.284 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+23:25:07.313 i.a.w.l.MainLauncher - http://es.wallapop.com/search?keywords=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+23:25:07.314 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:
+23:25:11.684 i.a.w.l.MainLauncher - Scraping 0 products matching criteria : category = 12545;0<price<500; 
+23:25:11.712 i.a.w.l.MainLauncher - http://es.wallapop.com/search?keywords=marco%20fotos&lat=41.398077&lng=2.170432&catIds=12545&minPrice=&maxPrice=500&dist=0_&order=creationDate-des
+23:25:11.713 i.a.w.l.MainLauncher - Filtering latest 10 items out of 0 retrieved:

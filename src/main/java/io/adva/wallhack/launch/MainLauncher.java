@@ -85,7 +85,8 @@ public class MainLauncher {
             LOG.error(e.toString());
         }
 
-        Elements containers = doc.getElementsByClass("container");
+        Elements containers = doc.getElementsByClass("container-wall-wrapper");
+        System.out.println(containers);
         Element container = containers.first();
 
         Elements cards = container.getElementsByClass("card");
@@ -213,7 +214,7 @@ public class MainLauncher {
             maxPriceStr=""+maxPrice;
 
         String urlString = BASE; //http://es.wallapop.com/search?
-        urlString+="kws="+keyword+"&";
+        urlString+="keywords="+keyword+"&";
         urlString+="lat="+LAT_BCN+"&";
         urlString+="lng="+LONG_BCN+"&";
         if(category!="") {
